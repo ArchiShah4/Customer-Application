@@ -10,7 +10,7 @@
             margin: 0 auto;
         }
     </style>
-</head>
+ </head>
 <body>
     <div class="wrapper">
         <div class="container-fluid">
@@ -23,4 +23,4 @@
         </div>
     </div>
 </body>
-</html>
+ </html>
